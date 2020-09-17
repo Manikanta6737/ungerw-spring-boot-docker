@@ -1,6 +1,6 @@
 [
     {
         "name": "spring-boot",
-        "imageUri": "070999721344.dkr.ecr.us-east-1.amazonaws.com/java-spring-app:spring-boot"
+        "imageUri": "URI"
     }
 ]
